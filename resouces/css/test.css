@@ -1,0 +1,23 @@
+.del{
+    text-decoration: line-through;
+}
+.sponsor-logo{
+    width: 140px;
+    cursor: pointer;
+    text-align: center;
+    transition: all .3s;
+}
+figcaption{
+    color: #265077;
+    font-size: 120%;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 10px;
+    
+}
+/* table{
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: gray; 
+} */
